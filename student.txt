@@ -1,0 +1,6 @@
+1,lamonte,ava,bsit,1
+2,kim,jennie,bscs,3
+4,park,rose,bsit,3
+5,buangjug,jot,bsit,4
+6,edul,rhea,bsit,3
+3,quino,louie,bsit,2
